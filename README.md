@@ -110,9 +110,7 @@ Guía **V8** (24 de febrero de 2026) del Ministerio de Transporte. Explica cómo
 
 ### 7. Uso del Web Service RNDC
 
-**Archivos:**
-- [`guia-webservice-rndc-v4.md`](./guia-webservice-rndc-v4.md)
-- [`guia-webservice-rndc-v4b.md`](./guia-webservice-rndc-v4b.md)
+**Archivo:** [`guia-webservice-rndc-v4.md`](./guia-webservice-rndc-v4.md)
 
 Guía **V4** (elaborada por Jairo Vesga, revisada por Edna Lorena Gutiérrez). Referencia técnica para la integración de sistemas externos con el RNDC mediante SOAP/XML.
 
