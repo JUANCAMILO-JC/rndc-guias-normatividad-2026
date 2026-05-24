@@ -25,7 +25,7 @@ Repositorio de documentación oficial del **Registro Nacional de Despachos de Ca
 
 ### 1. Resolución 16075 de 2026
 
-**Archivo:** [`04_RESOLUCION RNDC No. 16075 2026_compressed.md`](./04_RESOLUCION%20RNDC%20No.%2016075%202026_compressed.md)
+**Archivo:** [`resolucion-rndc-16075-2026.md`](./resolucion-rndc-16075-2026.md)
 
 Resolución **20263040016075** del 29 de abril de 2026, expedida por la Ministra de Transporte. Unifica, compila, armoniza y actualiza toda la normatividad aplicable al RNDC. Es el marco regulatorio vigente que reemplaza y consolida resoluciones anteriores.
 
@@ -38,7 +38,7 @@ Resolución **20263040016075** del 29 de abril de 2026, expedida por la Ministra
 
 ### 2. Manual Sistema RNDC 2022
 
-**Archivo:** [`MANUAL SISTEMA RNDC 2022_compressed.md`](./MANUAL%20SISTEMA%20RNDC%202022_compressed.md)
+**Archivo:** [`manual-sistema-rndc-2022.md`](./manual-sistema-rndc-2022.md)
 
 Manual de descripción e instrucciones para la operación general del RNDC, anexo a la Resolución 20223040045515 de agosto de 2022. Documento de referencia para todos los actores del sistema.
 
@@ -53,7 +53,7 @@ Manual de descripción e instrucciones para la operación general del RNDC, anex
 
 ### 3. Manifiesto Electrónico de Carga
 
-**Archivo:** [`Guia de Manifiesto V3_compressed.md`](./Guia%20de%20Manifiesto%20V3_compressed.md)
+**Archivo:** [`guia-manifiesto-electronico-v3.md`](./guia-manifiesto-electronico-v3.md)
 
 Guía operativa **V3** (12 de mayo de 2026) del Ministerio de Transporte. Describe paso a paso las actividades para expedir el Manifiesto Electrónico de Carga (MEC) a través del portal web y el web service del RNDC.
 
@@ -67,7 +67,7 @@ Guía operativa **V3** (12 de mayo de 2026) del Ministerio de Transporte. Descri
 
 ### 4. Registro de Remesa
 
-**Archivo:** [`Guía Registro Remesa Revisión 01_12_25_GAADS V4_compressed.md`](./Gu%C3%ADa%20Registro%20Remesa%20Revisi%C3%B3n%2001_12_25_GAADS%20V4_compressed.md)
+**Archivo:** [`guia-registro-remesa-v4.md`](./guia-registro-remesa-v4.md)
 
 Guía **V4** elaborada por el Grupo de Logística del Ministerio de Transporte (aprobada por Juan Felipe Sanabria Saetta y Alexandra Hernández). Explica el proceso de registro de remesas en el sistema RNDC, incluyendo la codificación de subpartida y código arancel.
 
@@ -80,7 +80,7 @@ Guía **V4** elaborada por el Grupo de Logística del Ministerio de Transporte (
 
 ### 5. Retención FOPAT
 
-**Archivo:** [`Guia de Liquidacion Retención FOPAT V2_compressed.md`](./Guia%20de%20Liquidacion%20Retenici%C3%B3n%20FOPAT%20V2_compressed.md)
+**Archivo:** [`guia-retencion-fopat-v2.md`](./guia-retencion-fopat-v2.md)
 
 Guía **V2** (20 de abril de 2026) del Ministerio de Transporte. Describe las actividades para realizar el registro de la retención FOPAT en el Manifiesto Electrónico de Carga y en el Cumplido del Manifiesto.
 
@@ -94,7 +94,7 @@ Guía **V2** (20 de abril de 2026) del Ministerio de Transporte. Describe las ac
 
 ### 6. Monitoreo de Flota
 
-**Archivo:** [`Guia de monitoreo de flota_v8_compressed.md`](./Guia%20de%20monitoreo%20de%20flota_v8_compressed.md)
+**Archivo:** [`guia-monitoreo-flota-v8.md`](./guia-monitoreo-flota-v8.md)
 
 Guía **V8** (24 de febrero de 2026) del Ministerio de Transporte. Explica cómo los sistemas de monitoreo de flota (EMF) reportan los tiempos logísticos al RNDC mediante el web service.
 
@@ -111,8 +111,8 @@ Guía **V8** (24 de febrero de 2026) del Ministerio de Transporte. Explica cómo
 ### 7. Uso del Web Service RNDC
 
 **Archivos:**
-- [`GUIA Uso del Web Service en el RNDC_LC V4_compressed.md`](./GUIA%20Uso%20del%20Web%20Service%20en%20el%20RNDC_LC%20V4_compressed.md)
-- [`GUIA_Uso_del_Web_Service_en_el_RNDC_LC_V4 (1).md`](./GUIA_Uso_del_Web_Service_en_el_RNDC_LC_V4%20%281%29.md)
+- [`guia-webservice-rndc-v4.md`](./guia-webservice-rndc-v4.md)
+- [`guia-webservice-rndc-v4b.md`](./guia-webservice-rndc-v4b.md)
 
 Guía **V4** (elaborada por Jairo Vesga, revisada por Edna Lorena Gutiérrez). Referencia técnica para la integración de sistemas externos con el RNDC mediante SOAP/XML.
 
@@ -128,8 +128,8 @@ Guía **V4** (elaborada por Jairo Vesga, revisada por Edna Lorena Gutiérrez). R
 ### 8. Consulta SICETAC — Portal y Web Service
 
 **Archivos:**
-- [`Consulta de SiceTac desde webservice y portal web_compressed.md`](./Consulta%20de%20SiceTac%20desde%20webservice%20y%20portal%20web_compressed.md)
-- [`GUIA CONSULTA SICETAC- WEB SERVICE_compressed.md`](./GUIA%20CONSULTA%20SICETAC-%20WEB%20SERVICE_compressed.md)
+- [`consulta-sicetac-portal-webservice.md`](./consulta-sicetac-portal-webservice.md)
+- [`guia-sicetac-webservice.md`](./guia-sicetac-webservice.md)
 
 Documentación (agosto 2021) sobre cómo consultar los **valores de referencia de costos eficientes de transporte** (SICETAC) desde el RNDC. El sistema alerta a empresas que registren valores por debajo del mínimo SICETAC.
 
@@ -144,7 +144,7 @@ Documentación (agosto 2021) sobre cómo consultar los **valores de referencia d
 
 ### 9. Factura Electrónica de Transporte
 
-**Archivo:** [`GUIA XML_FacturaElectronica V11_compressed.md`](./GUIA%20XML_FacturaElectronica%20V11_compressed.md)
+**Archivo:** [`guia-factura-electronica-v11.md`](./guia-factura-electronica-v11.md)
 
 Guía **V11** del Grupo de Logística del Ministerio de Transporte sobre la Factura Electrónica de Transporte. Cubre el proceso de emisión y los estándares XML requeridos para la integración con el RNDC.
 
@@ -158,7 +158,7 @@ Guía **V11** del Grupo de Logística del Ministerio de Transporte sobre la Fact
 
 ### 10. Codificación Sistema Armonizado
 
-**Archivo:** [`Codificacion Sistema Armonizado_compressed.md`](./Codificacion%20Sistema%20Armonizado_compressed.md)
+**Archivo:** [`codificacion-sistema-armonizado.md`](./codificacion-sistema-armonizado.md)
 
 Documento de referencia (342 páginas, elaborado por Jairo Vesga) con la **Codificación del Sistema Armonizado de Designación y Codificación de Mercancías**. Indispensable para el registro correcto de mercancías en remesas y manifiestos.
 
@@ -178,4 +178,4 @@ El **RNDC** es el sistema del Ministerio de Transporte de Colombia que registra 
 
 ## Formato
 
-Todos los archivos están en formato **Markdown** (`.md`), convertidos desde los PDF originales publicados por el Ministerio de Transporte. Los archivos con sufijo `_compressed` fueron procesados y optimizados para uso con herramientas de búsqueda semántica y modelos de lenguaje (RAG/LLM).
+Todos los archivos están en formato **Markdown** (`.md`), convertidos desde los PDF originales publicados por el Ministerio de Transporte y optimizados para uso con herramientas de búsqueda semántica y modelos de lenguaje (RAG/LLM).
